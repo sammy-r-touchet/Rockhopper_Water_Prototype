@@ -6,7 +6,7 @@ This prototype includes basic water generation, as well as some UI elements to a
 The waves are generated randomly, so they will appear differently on every restart.
 
 ## Purpose
-This prototype, as provided, is intended as example of recent code I've created independently.
+This prototype, as provided, is intended as example of recent code I've created independently. It is not fully featured as a result.
 
 ## Files
 C# Source code can be found under /Assets/Scripts.
